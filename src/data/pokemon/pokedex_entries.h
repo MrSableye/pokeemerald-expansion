@@ -10881,4 +10881,2024 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 #endif
+// AUTOGEN: start:base:CAP_POKEDEX_ENTRY
+    [NATIONAL_DEX_MAPLAGE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gMaplagePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_HAZELNAUT] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gHazelnautPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_GINOCCHIO] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gGinocchioPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_MAGMATA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gMagmataPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_DELAVA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gDelavaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SALEZERKER] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSalezerkerPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_FRUDGE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gFrudgePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_AQUAOS] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gAquaosPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_LEMIRETHUN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gLemirethunPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_JERMIN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gJerminPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SKUBA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSkubaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SPIRANHA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSpiranhaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SELAGHAST] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSelaghastPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_KARKUTLASS] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gKarkutlassPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_BANDICUTE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gBandicutePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_NAUGHTYCOOT] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gNaughtycootPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_FRIJOLERO] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gFrijoleroPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PICANTERO] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPicanteroPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SHERIFUEGO] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSherifuegoPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_MAGGHOST] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gMagghostPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_COCCURN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gCoccurnPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PHAMOTHOM] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPhamothomPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_LARVITTY] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gLarvittyPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_GRUMPOON] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gGrumpoonPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_KONEKOTH] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gKonekothPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_HYDUCK] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gHyduckPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_BLUDUCK] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gBluduckPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PLATYLICS] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPlatylicsPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_HAMSTATIC] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gHamstaticPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_AMPSTAR] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gAmpstarPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_DISBEARY] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gDisbearyPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_FUNGNET] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gFungnetPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_FLORIBEL] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gFloribelPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_MOGERIA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gMogeriaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_FLARHEA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gFlarheaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PEDESTONE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPedestonePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PILLAIA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPillaiaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_EROCHRE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gErochrePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_CANAMAPLE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gCanamaplePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_FROZWEED] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gFrozweedPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_ARACHNOTE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gArachnotePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_TURTURRET] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gTurturretPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SPYCRAB] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSpycrabPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_WEATHERBANE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gWeatherbanePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_CYCLONIAN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gCyclonianPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SIMIONACH] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSimionachPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_WATTITUDE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gWattitudePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_KOROKAMI] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gKorokamiPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SABSUTE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSabsutePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_DOLLGHOST] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gDollghostPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_TARQUAIL] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gTarquailPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_ECCOSMIC] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gEccosmicPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_BEAREDAZE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gBearedazePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_KUMATARO] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gKumataroPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_JARUMITE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gJarumitePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SERPOTINE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSerpotinePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_TSEMANI] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gTsemaniPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_TADPOISON] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gTadpoisonPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_BRETKHELM] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gBretkhelmPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_BERFGOYLE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gBerfgoylePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_FLUBUNNY] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gFlubunnyPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_LEPOOZE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gLepoozePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_LUNABBIT] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gLunabbitPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_HELMATA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gHelmataPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PUNKUYU] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPunkuyuPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_CHAMELEE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gChameleePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_TOASTORT] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gToastortPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_HORNTUBA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gHorntubaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_CRISTANIUM] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gCristaniumPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_CHEESETAH] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gCheesetahPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_WHIPSICUFFS] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gWhipsicuffsPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_TARANTAGON] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gTarantagonPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PEGUI] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPeguiPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PECHIT] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPechitPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_COPOLAR] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gCopolarPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_YUUKIINO] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gYuukiinoPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_AQUADIIVA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gAquadiivaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_MONKITE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gMonkitePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_KONGLIDE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gKonglidePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_YOKITE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gYokitePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_BORKOSMOS] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gBorkosmosPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SKALLAXY] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSkallaxyPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_ICEHUGGER] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gIcehuggerPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_XENINTER] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gXeninterPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_BUBBASAUR] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gBubbasaurPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_BUNGALOON] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gBungaloonPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_ENVILE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gEnvilePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_KAUSTIKROK] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gKaustikrokPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_3DAWG] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = g3dawgPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_DRATTEL] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gDrattelPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_ZILLICHINA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gZillichinaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_VENIREAL] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gVenirealPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_APOCAMISE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gApocamisePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_VOLIATH] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gVoliathPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_MAFIADON] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gMafiadonPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_WYCERN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gWycernPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_BITTERAGON] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gBitteragonPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_TRICKLING] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gTricklingPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_DRAKLOWN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gDraklownPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_MOYALITH] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gMoyalithPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_DINOMIGHT] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gDinomightPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_COCKEN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gCockenPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PRIMITEVE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPrimitevePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_TOKOYAKI] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gTokoyakiPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_ONSENPURA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gOnsenpuraPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_MOLTERRA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gMolterraPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_DUBSNAKE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gDubsnakePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_HYDROIL] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gHydroilPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_EQUUAN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gEquuanPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_IMPFECTION] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gImpfectionPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_JUNKGEIST] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gJunkgeistPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_KRISSY] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gKrissyPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_KRACKODEMON] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gKrackodemonPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_STROLLGE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gStrollgePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_MAMINI] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gMaminiPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_MAMMOUNT] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gMammountPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_VRISKELETON] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gVriskeletonPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_BULBFROG] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gBulbfrogPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_BALLBOA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gBallboaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SEMMUSH] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSemmushPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_HUSBIN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gHusbinPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SMOGARS] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSmogarsPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_GARGARRAMER] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gGargarramerPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_NOXILIUM] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gNoxiliumPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_FUSJAHL] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gFusjahlPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_INDIGNIFLY] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gIndigniflyPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_REGISHORT] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gRegishortPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_REGICIDE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gRegicidePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_REGIGIGONE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gRegigigonePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_GLACIUN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gGlaciunPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_GALVADEUX] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gGalvadeuxPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PYROTROIS] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPyrotroisPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_RANRUU] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gRanruuPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_LOITUMA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gLoitumaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_IGNIFATU] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gIgnifatuPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SPENJBAB] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSpenjbabPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_GIGAPUDDI] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gGigapuddiPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_EMPIDAE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gEmpidaePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PHANTORNEY] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPhantorneyPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_CIRNUMIRU] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gCirnumiruPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SERAPHILL] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSeraphillPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SHIRIBIKO] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gShiribikoPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_NYANONITE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gNyanonitePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_ANKHIRA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gAnkhiraPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_ANKHPU] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gAnkhpuPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_ANKHURAH] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gAnkhurahPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SQUITHEE] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSquitheePokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_GOBLAZER] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gGoblazerPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_WARGHORK] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gWarghorkPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_WAWHO] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gWawhoPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SABLINI] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSabliniPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_DOOMSDAY] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gDoomsdayPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PEASOL] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPeasolPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_VAPONOBI] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gVaponobiPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_HAARSHOGUN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gHaarshogunPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_VINEBOMB] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gVinebombPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_FUCKER] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gFuckerPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_EMOJINN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gEmojinnPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SPORESTOOL] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSporestoolPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_PEASHROOM] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gPeashroomPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+// AUTOGEN: end:base:CAP_POKEDEX_ENTRY
+// AUTOGEN: start:forme:CAP_POKEDEX_ENTRY
+    [NATIONAL_DEX_JERMIN_SWARM] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gJerminSwarmPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SKUBA_ANTI] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSkubaAntiPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_DISBEARY_EBIL] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gDisbearyEbilPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_SIMIONACH_ZEN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gSimionachZenPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_COCKEN_MEGA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gCockenMegaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_GARGARRAMER_AWOKEN] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gGargarramerAwokenPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_FUSJAHL_MEGA] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gFusjahlMegaPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+    [NATIONAL_DEX_DOOMSDAY_REVENANT] =
+    {
+        .categoryName = _("Foo Bar"),
+        .height = 17,
+        .weight = 905,
+        .description = gDoomsdayRevenantPokedexText,
+        .pokemonScale = 256,
+        .pokemonOffset = 1,
+        .trainerScale = 302,
+        .trainerOffset = 3,
+    },
+
+// AUTOGEN: end:forme:CAP_POKEDEX_ENTRY
 };
