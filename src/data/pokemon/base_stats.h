@@ -26851,7 +26851,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -26874,7 +26873,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -26897,7 +26895,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -26920,7 +26917,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIRE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -26943,7 +26939,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_STEEL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -26966,7 +26961,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_STEEL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -26989,7 +26983,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_WATER,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -27012,7 +27005,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GROUND,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -27035,7 +27027,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GROUND,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -27058,7 +27049,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_POISON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -27081,7 +27071,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_STEEL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27104,7 +27093,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -27127,7 +27115,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -27150,7 +27137,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -27173,7 +27159,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GROUND,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27196,7 +27181,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GROUND,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27219,7 +27203,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GRASS,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27242,7 +27225,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIRE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27265,7 +27247,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIRE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27288,7 +27269,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27311,7 +27291,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27334,7 +27313,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27357,7 +27335,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_BUG,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27380,7 +27357,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_BUG,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27403,7 +27379,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_BUG,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27426,7 +27401,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_PSYCHIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27449,7 +27423,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_PSYCHIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27472,7 +27445,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27495,7 +27467,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ELECTRIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27518,7 +27489,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ELECTRIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27541,7 +27511,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(87.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -27564,7 +27533,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ELECTRIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27587,7 +27555,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GRASS,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(75),
         .eggCycles = 20,
         .friendship = 70,
@@ -27610,7 +27577,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GRASS,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(75),
         .eggCycles = 20,
         .friendship = 70,
@@ -27633,7 +27599,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIRE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27656,7 +27621,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ROCK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -27679,7 +27643,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GRASS,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -27702,7 +27665,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GROUND,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -27725,7 +27687,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GRASS,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27748,7 +27709,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ICE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27771,7 +27731,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_NORMAL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27794,7 +27753,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ELECTRIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27817,7 +27775,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DARK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27840,7 +27797,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FLYING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -27863,7 +27819,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_STEEL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -27886,7 +27841,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIGHTING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27909,7 +27863,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ELECTRIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -27932,7 +27885,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_NORMAL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27955,7 +27907,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_NORMAL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -27978,7 +27929,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28001,7 +27951,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GROUND,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28024,7 +27973,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_PSYCHIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28047,7 +27995,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_NORMAL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(25),
         .eggCycles = 20,
         .friendship = 70,
@@ -28070,7 +28017,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIGHTING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(25),
         .eggCycles = 20,
         .friendship = 70,
@@ -28093,7 +28039,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_WATER,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28116,7 +28061,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_WATER,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28139,7 +28083,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_WATER,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28162,7 +28105,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_POISON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -28185,7 +28127,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DRAGON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -28208,7 +28149,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DRAGON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -28231,7 +28171,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_PSYCHIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -28254,7 +28193,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_PSYCHIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -28277,7 +28215,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_PSYCHIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -28300,7 +28237,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GROUND,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -28323,7 +28259,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIGHTING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -28346,7 +28281,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIGHTING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -28369,7 +28303,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28392,7 +28325,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_STEEL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_MALE,
         .eggCycles = 20,
         .friendship = 70,
@@ -28415,7 +28347,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GRASS,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28438,7 +28369,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIRE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28461,7 +28391,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIGHTING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28484,7 +28413,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_STEEL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28507,7 +28435,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ICE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(75),
         .eggCycles = 20,
         .friendship = 70,
@@ -28530,7 +28457,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DARK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(75),
         .eggCycles = 20,
         .friendship = 70,
@@ -28553,7 +28479,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIGHTING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(75),
         .eggCycles = 20,
         .friendship = 70,
@@ -28576,7 +28501,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ICE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_FEMALE,
         .eggCycles = 20,
         .friendship = 70,
@@ -28599,7 +28523,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_WATER,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_FEMALE,
         .eggCycles = 20,
         .friendship = 70,
@@ -28622,7 +28545,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FLYING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28645,7 +28567,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FLYING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28668,7 +28589,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FLYING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28691,7 +28611,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIRE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28714,7 +28633,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIRE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28737,7 +28655,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_POISON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -28760,7 +28677,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_POISON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -28783,7 +28699,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(75),
         .eggCycles = 20,
         .friendship = 70,
@@ -28806,7 +28721,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_POISON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(75),
         .eggCycles = 20,
         .friendship = 70,
@@ -28829,7 +28743,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DARK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(25),
         .eggCycles = 20,
         .friendship = 70,
@@ -28852,7 +28765,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_POISON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(25),
         .eggCycles = 20,
         .friendship = 70,
@@ -28875,7 +28787,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_NORMAL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -28898,7 +28809,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_STEEL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -28921,7 +28831,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_STEEL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -28944,7 +28853,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DARK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -28967,7 +28875,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DARK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -28990,7 +28897,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ELECTRIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29013,7 +28919,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DRAGON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_MALE,
         .eggCycles = 20,
         .friendship = 70,
@@ -29036,7 +28941,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ICE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -29059,7 +28963,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ICE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -29082,7 +28985,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_MALE,
         .eggCycles = 20,
         .friendship = 70,
@@ -29105,7 +29007,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DRAGON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_MALE,
         .eggCycles = 20,
         .friendship = 70,
@@ -29128,7 +29029,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ROCK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29151,7 +29051,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DRAGON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29174,7 +29073,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_???,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29197,7 +29095,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_STEEL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(12.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -29220,7 +29117,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_WATER,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29243,7 +29139,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_WATER,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29266,7 +29161,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GROUND,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29289,7 +29183,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_POISON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29312,7 +29205,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIRE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29335,7 +29227,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_NORMAL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(25),
         .eggCycles = 20,
         .friendship = 70,
@@ -29358,7 +29249,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_POISON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29381,7 +29271,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29404,7 +29293,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DARK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29427,7 +29315,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DARK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29450,7 +29337,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29473,7 +29359,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_NORMAL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29496,7 +29381,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_NORMAL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29519,7 +29403,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DARK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29542,7 +29425,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ELECTRIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29565,7 +29447,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIGHTING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29588,7 +29469,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GRASS,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29611,7 +29491,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_PSYCHIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(75),
         .eggCycles = 20,
         .friendship = 70,
@@ -29634,7 +29513,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DRAGON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29657,7 +29535,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FLYING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(25),
         .eggCycles = 20,
         .friendship = 70,
@@ -29680,7 +29557,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FLYING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29703,7 +29579,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GROUND,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29726,7 +29601,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_PSYCHIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -29749,7 +29623,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29772,7 +29645,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29795,7 +29667,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29818,7 +29689,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_BUG,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29841,7 +29711,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_BUG,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29864,7 +29733,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_BUG,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29887,7 +29755,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29910,7 +29777,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FLYING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29933,7 +29799,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIRE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29956,7 +29821,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ROCK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -29979,7 +29843,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30002,7 +29865,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_BUG,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30025,7 +29887,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIGHTING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30048,7 +29909,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30071,7 +29931,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FLYING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30094,7 +29953,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DRAGON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30117,7 +29975,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_ROCK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30140,7 +29997,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_PSYCHIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30163,7 +30019,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_PSYCHIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30186,7 +30041,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_PSYCHIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30209,7 +30063,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_STEEL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_MALE,
         .eggCycles = 20,
         .friendship = 70,
@@ -30232,7 +30085,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIGHTING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_MALE,
         .eggCycles = 20,
         .friendship = 70,
@@ -30255,7 +30107,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_MALE,
         .eggCycles = 20,
         .friendship = 70,
@@ -30278,7 +30129,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_???,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30301,7 +30151,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30324,7 +30173,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30347,7 +30195,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_WATER,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -30370,7 +30217,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_WATER,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -30393,7 +30239,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_WATER,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -30416,7 +30261,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIRE,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -30439,7 +30283,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FIGHTING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -30462,7 +30305,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FLYING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_MALE,
         .eggCycles = 20,
         .friendship = 70,
@@ -30485,7 +30327,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_FEMALE,
         .eggCycles = 20,
         .friendship = 70,
@@ -30508,7 +30349,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FAIRY,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_FEMALE,
         .eggCycles = 20,
         .friendship = 70,
@@ -30533,7 +30373,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_POISON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
@@ -30556,7 +30395,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_STEEL,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -30579,7 +30417,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DARK,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(87.5),
         .eggCycles = 20,
         .friendship = 70,
@@ -30602,7 +30439,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_PSYCHIC,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -30625,7 +30461,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_DRAGON,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -30648,7 +30483,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_FLYING,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(25),
         .eggCycles = 20,
         .friendship = 70,
@@ -30671,7 +30505,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_BUG,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = PERCENT_FEMALE(50),
         .eggCycles = 20,
         .friendship = 70,
@@ -30694,7 +30527,6 @@ const struct BaseStats gBaseStats[] =
         .type2 = TYPE_GHOST,
         .catchRate = 255,
         .expYield = 100,
-
         .genderRatio = MON_GENDERLESS,
         .eggCycles = 20,
         .friendship = 70,
